@@ -39,10 +39,7 @@ Here are some ideas to get you started:
 - I am currently looking for a software engineer internship!
 <!-- I am also looking to collaborate on (insert project type)!-->
 - Connect with me down below!
- 
-## 📈 Stats
-![Jvalaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvalaj&theme=gotham&show_icons=true)
- 
+
 ## 🔗Connect with me!
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/jvalaj jvalaj)-->
 [![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((https://www.linkedin.com/in/jvalaj)-->

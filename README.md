@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## 📝 Networking
-- I am currently looking for a software engineer internship!
-<!-- I am also looking to collaborate on (insert project type)!-->
-- Connect with me down below!
+- I am currently looking for a software engineer internship / part-time role!
+
 
 ## 🔗Connect with me!
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]<!---((https://github.com/jvalaj jvalaj)-->

@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 
 ## 🔗Connect with me!
-[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]<!---((https://www.linkedin.com/in/jvalaj)-->
+[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]((https://www.linkedin.com/in/jvalaj)

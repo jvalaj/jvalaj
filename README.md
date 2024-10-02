@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
  
 - I am Jvalaj Pandey, a Computer Science major studying at the University of South Florida! 
-- I am currently a Full Stack Software Developer for the Honors College @ USF!
+- I experience working as a Full Stack Software Developer for the Honors College @ USF!
  
 📚 Outside the tech world, I enjoy reading, drawing, and mountain biking!
  

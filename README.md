@@ -1,18 +1,10 @@
 ### Hi there 👋
  
-<!--
-**ChristianaMH/ChristianaMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
- 
-- 🔭 I’m currently working on building more projects with C++
-- 🌱 I’m currently learning data structures & SQL
-- 🤔 I’m looking to share my projects with others!
--->
+
  
 ## 🚀 About Me
  
-- I am Jvalaj Pandey, a Computer Science major studying at the University of South Florida, currently building Nav AI.
+- I am Jvalaj Pandey, a Computer Science major studying at the University of South Florida, currently building Nav AI(https://navai.vercel.app/).
 
 Prev Experience:
   worked as a Full Stack Software Developer for the Honors College @ USF!

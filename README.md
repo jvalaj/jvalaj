@@ -6,8 +6,6 @@
  
 - I am Jvalaj Pandey, a Computer Science major studying at the University of South Florida, currently building [Nav AI](https://navai.vercel.app/).
 
-Prev Experience:
-  worked as a Full Stack Software Developer for the Honors College @ USF!
  
 📚 Outside the tech world, I enjoy reading, drawing, and mountain biking!
  
@@ -34,4 +32,4 @@ Prev Experience:
 
 
 ## 🔗Connect with me!
-[![linked-in](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)]((https://www.linkedin.com/in/jvalaj)
+[myLinkedIn](https://www.linkedin.com/in/jvalaj)

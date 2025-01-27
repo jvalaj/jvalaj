@@ -4,10 +4,10 @@
  
 ## 🚀 About Me
  
-- I am Jvalaj Pandey, a Computer Science major studying at the University of South Florida, currently building [Nav AI](https://navai.vercel.app/).
+- I am Jvalaj Pandey, a Computer Science major studying at the University of South Florida, currently working as a Co-Op for Delta Airlines.
 
  
-📚 Outside the tech world, I enjoy reading, drawing, and mountain biking!
+📚 Outside the tech world, I enjoy reading philosophy, creating art, and building cool things!
  
 ## 🛠️ Skills & Technologies
  
@@ -26,9 +26,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-## 📝 Networking
-- I am currently looking for a software engineer internship / part-time role!
 
 
 ## 🔗Connect with me!

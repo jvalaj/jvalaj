@@ -4,7 +4,7 @@
  
 ## 🚀 About Me
  
-- I am Jvalaj Pandey, currently working as a Co-Op for Delta Airlines. I am Computer Science student at the University of South Florida.
+- I am Jvalaj Pandey, currently a SDE Intern @ Nucor Steel, prev a SWE Intern @ Delta Airlines. I am Computer Science student at the University of South Florida.
 
  
 📚 Outside the tech world, I enjoy reading philosophy, creating art, and building cool things!

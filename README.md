@@ -15,7 +15,7 @@
 * Love Vercel/Netlify/Render & other free services (a lot)
 * Know how to drive both left side / right side driver seat cars
  
-## 🛠️ Skills & Technologies
+## skills
  
 <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges -->
 ![python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)

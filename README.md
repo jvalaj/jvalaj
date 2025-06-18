@@ -34,5 +34,5 @@
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
-## 🔗Connect with me!
+## socials
 [myLinkedIn](https://www.linkedin.com/in/jvalaj)

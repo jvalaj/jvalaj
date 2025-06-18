@@ -4,10 +4,10 @@
  ![Profile views](https://komarev.com/ghpvc/?username=jvala&label=Profile%20views&color=0e75b6&style=flat)
 
 ## about
-Currently working as a SDE Intern @ Nucor Steel
-Prev a SWE Intern @ Delta Airlines
-Incoming Senior @ University of South Florida (Graduate May 2026)
-Majoring in Computer Science.
+-> Currently working as a SDE Intern @ Nucor Steel
+-> Prev a SWE Intern @ Delta Airlines
+-> Incoming Senior @ University of South Florida (Graduate May 2026)
+-> Majoring in Computer Science.
  
 ## facts
 Favorite book: Almanak of Naval Ravikant

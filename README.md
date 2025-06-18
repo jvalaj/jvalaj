@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Jvalaj Pandey
  
+![Typing](https://readme-typing-svg.herokuapp.com?lines=ML+Engineer;Web+Dev;Dreamer;Reality+Hacker;&center=true&width=500)
 
  ![Profile views](https://komarev.com/ghpvc/?username=jvala&label=Profile%20views&color=0e75b6&style=flat)
 

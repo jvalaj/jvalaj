@@ -1,14 +1,20 @@
-### Hi there 👋
+### Hi 👋, I'm Jvalaj Pandey
  
 
  ![Profile views](https://komarev.com/ghpvc/?username=jvala&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🚀 About Me
+## 🚀 about_me
  
-- I am Jvalaj Pandey, currently a SDE Intern @ Nucor Steel, prev a SWE Intern @ Delta Airlines. I am Computer Science student at the University of South Florida.
-
+- Currently working as a SDE Intern @ Nucor Steel.
+- Prev a SWE Intern @ Delta Airlines.
+- I am an incoming Senior @ University of South Florida.
+- Majoring in Computer Science.
  
-📚 Outside the tech world, I enjoy reading philosophy, creating art, and building cool things!
+## 📚 random_facts
+- Favorite book: Almanak of Naval Ravikant
+- Can cut my own hair
+- Love Vercel/Netlify/Render & other free services (a lot)
+- Know how to drive both left side / right side driver seat cars
  
 ## 🛠️ Skills & Technologies
  

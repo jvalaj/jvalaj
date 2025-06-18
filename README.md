@@ -10,10 +10,10 @@
 * Majoring in Computer Science.
  
 ## facts
-* Favorite book: Almanak of Naval Ravikant
+* Favorite book: Almanak of Naval Ravikant (pls give this a read, will change your life)
 * Can cut my own hair
 * Love Vercel/Netlify/Render & other free services (a lot)
-* Know how to drive both left side / right side driver seat cars
+* Know how to drive both left-side and right-side steering cars
  
 ## skills
  

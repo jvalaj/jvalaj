@@ -35,5 +35,5 @@
 
 ## socials
 (most active on X)
-[x](https://x.com/jvalaj13)
-[myLinkedIn](https://www.linkedin.com/in/jvalaj)
+&nbsp;
+[x](https://x.com/jvalaj13) &nbsp;&nbsp;&nbsp;&nbsp; [myLinkedIn](https://www.linkedin.com/in/jvalaj)

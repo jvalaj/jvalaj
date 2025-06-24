@@ -34,9 +34,10 @@
 
 
 ## socials
-(most active on X)
-&nbsp;
-&nbsp;  
-&nbsp;  
-&nbsp;
 [x](https://x.com/jvalaj13) &nbsp;&nbsp;&nbsp;&nbsp; [myLinkedIn](https://www.linkedin.com/in/jvalaj)
+
+&nbsp;
+&nbsp;  
+&nbsp;  
+&nbsp;
+(most active on X)

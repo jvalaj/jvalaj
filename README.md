@@ -9,10 +9,13 @@
 * Majoring in Computer Science
  
 ## facts
-* Favorite book: Almanak of Naval Ravikant (pls give this a read, will change your life)
-* Can cut my own hair
-* Love Vercel/Netlify/Render & other free services (a lot)
-* Know how to drive both left-side and right-side steering cars
+* fav book: Almanak of Naval Ravikant
+* chronically talk to ai (well versed in gemini, chatgpt, grok, perplexity, claude {sorry deepseek})
+* vibe coder with architectural know-how ;P
+* can drive both left-side and right-side steering cars
+* speed cuber(3x3, pb: 21s)
+
+
  
 ## skills
  

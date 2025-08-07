@@ -16,7 +16,7 @@ shameless art plug:
 ## facts
 * fav book: Almanak of Naval Ravikant ~ i follow Naval in general, life changing perspective
 * can drive both left-side and right-side steering cars because i am originally from new delhi, india
-* was big into speed cubing (3x3, pb: 21s)
+* was big into [speed cubing](https://www.worldcubeassociation.org/persons/2015PAND09) (3x3, pb: 21s)
 * i like urban mountain biking
 
  

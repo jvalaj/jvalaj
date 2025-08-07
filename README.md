@@ -3,7 +3,10 @@
  ![Profile views](https://komarev.com/ghpvc/?username=jvala&label=Profile%20views&color=0e75b6&style=flat)
 
 background: i used to do a lot of art and liked the idea of creating stuff, got introduced to coding and now i like to build stuff with code :)
-shameless art plug: [instagram](https://www.instagram.com/zvalaz/) [behance](https://www.behance.net/jvalajpandey)
+
+shameless art plug: 
+[instagram](https://www.instagram.com/zvalaz/)
+[behance](https://www.behance.net/jvalajpandey)
 
 ## about
 

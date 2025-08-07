@@ -1,25 +1,25 @@
-### Hi 👋, I'm Jvalaj Pandey
+### Hi, I'm Jvalaj Pandey
  
  ![Profile views](https://komarev.com/ghpvc/?username=jvala&label=Profile%20views&color=0e75b6&style=flat)
 
+*i used to do a lot of art and liked the idea of creating stuff, got introduced to coding and now i like to build stuff with code :)
+
 ## about
+
 * Currently: SDE Intern @ Nucor Steel; Prev SWE Intern @ Delta Airlines
-* Incoming Senior @ University of South Florida (Graduate May 2026)
-* Majoring in Computer Science (lucky guess right?)
+* Incoming CS Senior @ University of South Florida (Graduate May 2026)
  
 ## facts
-* fav book: Almanak of Naval Ravikant
-* chronically talk to ai (well versed in gemini, chatgpt, grok, perplexity, claude {sorry deepseek})
-* vibe coder with architectural know-how ;P
-* can drive both left-side and right-side steering cars
-* speed cuber(3x3, pb: 21s)
-
+* fav book: Almanak of Naval Ravikant ~ i follow Naval in general, life changing perspective
+* can drive both left-side and right-side steering cars because i am originally from new delhi, india
+* was big into speed cubing (3x3, pb: 21s)
+* i like urban mountain biking
 
  
 ## skills
  
 <!--- feel free to add your own badges and skills. Google https://img.shields.io/badge/SKILL-NAME-000000?style=for-the-badge&logo=SKILL-NAME&logoColor=white) for badges -->
-can pretty much learn any stack atp. have a thing for good design 
+can pretty much learn any stack but i like to do any kind of apps because of the frontend aspect ~ have a thing for good design 
 
 
 ## socials

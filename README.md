@@ -10,8 +10,8 @@ shameless art plug:
 
 ## about
 
-* Currently: SDE Intern @ Nucor Steel; Prev SWE Intern @ Delta Airlines
-* Incoming CS Senior @ University of South Florida (Graduate May 2026)
+* Prev SDE Intern @ Nucor, Delta Airlines
+* Incoming CS Senior @ University of South Florida
  
 ## facts
 * fav book: Almanak of Naval Ravikant ~ i follow Naval in general, life changing perspective

@@ -11,6 +11,7 @@ shameless art plug:
 ## about
 
 * Prev SDE Intern @ Nucor, Delta Airlines
+* TA - COP 3515 : Advanced Program Design
 * Incoming CS Senior @ University of South Florida
  
 ## facts

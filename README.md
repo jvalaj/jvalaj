@@ -7,8 +7,8 @@ background: i used to do a lot of art and liked the idea of creating stuff, got 
 ## about
 
 * Prev SDE Intern @ Nucor, Delta Airlines
-* TA - COP 3515 : Advanced Program Design
-* Incoming CS Senior @ University of South Florida
+* TA - COP 3514 : Program Design
+* CS Senior @ University of South Florida
  
 ## facts
 * fav read: Almanak of Naval Ravikant ~ i follow Naval in general, life changing perspective

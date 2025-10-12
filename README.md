@@ -7,7 +7,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, got 
 ## about
 
 * Prev SDE Intern @ Nucor, Delta Airlines
-* TA - COP 3514 : Program Design
+* TA - COP 3514 : Program Design in C
 * CS Senior @ University of South Florida
  
 ## facts

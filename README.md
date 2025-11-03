@@ -24,7 +24,7 @@ can pretty much learn any stack but i like to do any kind of apps because of the
 
 
 ## socials
-[x](https://x.com/jvalaj13) &nbsp;&nbsp;&nbsp;&nbsp; [linkedIn](https://www.linkedin.com/in/jvalaj) &nbsp;&nbsp;&nbsp;&nbsp; [portfolio](https://www.jvalaj.com/)
+[x](https://x.com/jvalaj13) &nbsp;&nbsp;&nbsp;&nbsp; [linkedIn](https://www.linkedin.com/in/jvalaj) &nbsp;&nbsp;&nbsp;&nbsp; [portfolio](https://www.jvalaj.com/) &nbsp;&nbsp;&nbsp;&nbsp; [behance]([https://www.behance.com/](https://www.behance.net/jvalajpandey))
 
 &nbsp;
 &nbsp;  

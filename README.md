@@ -11,7 +11,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, got 
 * CS Senior @ University of South Florida
  
 ## facts
-* fav read: Almanak of Naval Ravikant ~ i follow Naval in general, life changing perspective
+* fav read: Almanak of Naval Ravikant
 * can drive both left-side and right-side steering cars because i am originally from new delhi, india
 * was big into [speed cubing](https://www.worldcubeassociation.org/persons/2015PAND09) (3x3, pb: 21s)
 * i like urban mountain biking

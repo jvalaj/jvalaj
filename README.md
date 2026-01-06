@@ -7,7 +7,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 ## about
 
 * Prev SDE Intern @ Nucor, Delta Airlines
-* CS Senior @ University of South Florida
+* CS @ University of South Florida
 
 ## projects
 

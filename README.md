@@ -9,7 +9,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 * Prev SDE Intern @ Nucor, Delta Airlines
 * CS @ University of South Florida
 
-## projects
+## work
 
 * [Grid](https://trygrid.app)
 * [VS Chat](https://marketplace.visualstudio.com/items?itemName=JvalajPandey.vschatt)

@@ -14,13 +14,11 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 * [Grid](https://trygrid.app)
 * [VS Chat](https://marketplace.visualstudio.com/items?itemName=JvalajPandey.vschatt)
 * [Komal](https://komalkids.com)
+* [Personal Site](https://jvalaj.com)
 * [Liquid Glass](https://jvalaj.github.io/liquid-glass-try/)
 * [Is This Person Real](https://isthispersonreal.netlify.app/)
-* [Askdd](https://askdd.vercel.app/)
 * [MonkeyNotes](https://monkeynotes.vercel.app/)
-* [Personal Site](https://jvalaj.com)
 * [Breathe AI](https://breatheai.streamlit.app/)
-* [Vi5ual](https://vi5ual.netlify.app/)
 * [Chemshop](https://chemshop-deploy.onrender.com/)
  
 ## socials

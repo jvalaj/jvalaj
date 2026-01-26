@@ -6,7 +6,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 
 ## about
 
-* Prev SDE Intern @ Nucor, Delta Airlines
+* Prev SDE Intern @ Nucor Corporation, Delta Airlines
 * CS @ University of South Florida
 
 ## work

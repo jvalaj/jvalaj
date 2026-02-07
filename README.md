@@ -10,7 +10,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 * CS @ University of South Florida
 
 ## work
-Now Building [[Nav](https://www.getnav.app/)]
+* [Nav](https://www.getnav.app/)
 * [Grid](https://trygrid.app)
 * [VS Chat](https://marketplace.visualstudio.com/items?itemName=JvalajPandey.vschatt)
 * [Komal](https://komalkids.com)

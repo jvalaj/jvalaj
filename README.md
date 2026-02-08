@@ -9,6 +9,31 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 * Prev SDE Intern @ Nucor Corporation, Delta Airlines
 * CS @ University of South Florida
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.getnav.app/">Nav</a><br/>
+      <img src="https://github.com/user-attachments/assets/e234cc86-bc51-4341-af33-7ef6fcba5b47" width="400"/>
+    </td>
+    <td align="center">
+      <a href="https://trygrid.app">Grid</a><br/>
+      <img src="https://github.com/user-attachments/assets/0b1e0fab-0fd0-4e18-b3bd-88f37d0f706a" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://komalkids.com">Komal</a><br/>
+      <img src="https://github.com/user-attachments/assets/8252955e-4176-4f2e-8fda-ba63ccceed25" width="400"/>
+    </td>
+    <td align="center">
+      <a href="https://jvalaj.com">Personal Site</a><br/>
+      <img src="https://github.com/user-attachments/assets/3439cb4d-d3f5-42b9-a625-c5b9a2dce3aa" width="400"/>
+    </td>
+  </tr>
+</table>
+
+
 ## work
 * [Nav](https://www.getnav.app/)
   

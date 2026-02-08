@@ -15,7 +15,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 * CS @ University of South Florida
 
 ## work
-* [Nav](https://www.getnav.app/) <img width="1291" height="811" alt="Screenshot 2026-02-07 at 10 52 40 PM" src="https://github.com/user-attachments/assets/e234cc86-bc51-4341-af33-7ef6fcba5b47" />
+* [Nav](https://www.getnav.app/) <img width="600" alt="Screenshot 2026-02-07 at 10 52 40 PM" src="https://github.com/user-attachments/assets/e234cc86-bc51-4341-af33-7ef6fcba5b47" />
 * [Grid](https://trygrid.app) <img width="1416" height="846" alt="Screenshot 2026-02-07 at 10 52 14 PM" src="https://github.com/user-attachments/assets/0b1e0fab-0fd0-4e18-b3bd-88f37d0f706a" />
 * [VS Chat](https://marketplace.visualstudio.com/items?itemName=JvalajPandey.vschatt)<img width="612" height="206" alt="Screenshot 2026-02-07 at 10 51 52 PM" src="https://github.com/user-attachments/assets/d40df252-3c84-4523-9eb7-dbb8b2aed8af" />
 

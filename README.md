@@ -12,19 +12,19 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 ## work
 * [Nav](https://www.getnav.app/)
   
-  <img width="600" alt="Screenshot 2026-02-07 at 10 52 40 PM" src="https://github.com/user-attachments/assets/e234cc86-bc51-4341-af33-7ef6fcba5b47" />
+  <img width="400" alt="Screenshot 2026-02-07 at 10 52 40 PM" src="https://github.com/user-attachments/assets/e234cc86-bc51-4341-af33-7ef6fcba5b47" />
   
 * [Grid](https://trygrid.app)
   
-  <img width="600" alt="Screenshot 2026-02-07 at 10 52 14 PM" src="https://github.com/user-attachments/assets/0b1e0fab-0fd0-4e18-b3bd-88f37d0f706a" />
+  <img width="400" alt="Screenshot 2026-02-07 at 10 52 14 PM" src="https://github.com/user-attachments/assets/0b1e0fab-0fd0-4e18-b3bd-88f37d0f706a" />
   
 * [VS Chat](https://marketplace.visualstudio.com/items?itemName=JvalajPandey.vschatt)
   
-  <img width="600"  alt="Screenshot 2026-02-07 at 10 51 52 PM" src="https://github.com/user-attachments/assets/d40df252-3c84-4523-9eb7-dbb8b2aed8af" />
+  <img width="400"  alt="Screenshot 2026-02-07 at 10 51 52 PM" src="https://github.com/user-attachments/assets/d40df252-3c84-4523-9eb7-dbb8b2aed8af" />
 
 * [Komal](https://komalkids.com)
   
-  <img width="600"  alt="Screenshot 2026-02-07 at 10 53 08 PM" src="https://github.com/user-attachments/assets/8252955e-4176-4f2e-8fda-ba63ccceed25" />
+  <img width="400"  alt="Screenshot 2026-02-07 at 10 53 08 PM" src="https://github.com/user-attachments/assets/8252955e-4176-4f2e-8fda-ba63ccceed25" />
 
 * [Personal Site](https://jvalaj.com)
   

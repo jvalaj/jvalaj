@@ -1,5 +1,10 @@
 ### Hi, I'm Jvalaj Pandey
- 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f817035d-605d-454c-9117-da1f1041aadf" width="100%" />
+</p>
+
+
  ![Profile views](https://komarev.com/ghpvc/?username=jvala&label=Profile%20views&color=0e75b6&style=flat)
 
 background: i used to do a lot of art and liked the idea of creating stuff, now i like to build stuff with code :)

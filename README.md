@@ -14,6 +14,12 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 <table>
   <tr>
     <td align="center">
+      <a href="https://www.traceui.app/">traceUI</a><br/>
+        <img width="350" src="https://github.com/user-attachments/assets/3ead0a64-43b4-4017-9f06-e284bcba87de" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://www.getnav.app/">Nav</a><br/>
       <img src="https://github.com/user-attachments/assets/e234cc86-bc51-4341-af33-7ef6fcba5b47" width="350"/>
     </td>

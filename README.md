@@ -10,7 +10,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
    <tr>
     <td align="center">
       <a href="https://github.com/jvalaj/stick">stick</a><br/>
-        <img src="https://github.com/user-attachments/assets/ba704d4c-7ad4-4e1b-9770-90b156750303" width="350"  />
+      <img width="350" src="https://github.com/user-attachments/assets/61cb3625-3425-4e02-9647-17b4727ea8cd" />
     </td>
     <td align="center">
       <a href="https://www.traceui.app/">traceUI</a><br/>

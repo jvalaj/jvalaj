@@ -12,8 +12,6 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
       <a href="https://github.com/jvalaj/stick">stick</a><br/>
         <img width="350" src="https://github.com/user-attachments/assets/ba704d4c-7ad4-4e1b-9770-90b156750303" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://www.traceui.app/">traceUI</a><br/>
         <img width="350" src="https://github.com/user-attachments/assets/3ead0a64-43b4-4017-9f06-e284bcba87de" />

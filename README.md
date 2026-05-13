@@ -9,7 +9,7 @@ background: i used to do a lot of art and liked the idea of creating stuff, now 
 <table>
    <tr>
     <td align="center">
-      <a href="https://github.com/jvalaj/stick">stick</a><br/>
+      <a href="https://stickglass.vercel.app">stick</a><br/>
       <img width="350" src="https://github.com/user-attachments/assets/61cb3625-3425-4e02-9647-17b4727ea8cd" />
     </td>
     <td align="center">
